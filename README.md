@@ -18,7 +18,7 @@ My teammates working on this project were:
 ![LAAR - merged images](MergedImages.png)
 
 
-# Portrolio websites v1
+# Portfolio websites v1
 My old (PHP) portfolio websites (slow initial load):
 https://hasse-imberg-websites.onrender.com
 
