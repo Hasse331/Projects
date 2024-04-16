@@ -12,6 +12,8 @@ My teammates working on this project were:
 - [@jholopai](https://github.com/jholopai)
 - [@nawzad-hassan](https://github.com/nawzad-hassan)
 - [@johannaelisa](https://github.com/johannaelisa)
+
+  
 ![LAAR - merged images](MergedImages.png)
 
 
