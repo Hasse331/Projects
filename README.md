@@ -6,7 +6,12 @@ Working as team lead and full-stack developer.
 https://lapsen-arki.fi
 
 Application is using stack of: Vite, MUI, TypeScript, Node.js, Firebase, Cypress, Jest, Azure, Docker.
-My team mates working on this project where: @esaleino, @saukkeli, @jholopai, @nawzad-hassan and @johannaelisa 
+My teammates working on this project were:
+- [@esaleino](https://github.com/esaleino)
+- [@saukkeli](https://github.com/saukkeli)
+- [@jholopai](https://github.com/jholopai)
+- [@nawzad-hassan](https://github.com/nawzad-hassan)
+- [@johannaelisa](https://github.com/johannaelisa)
 ![LAAR - merged images](MergedImages.png)
 
 
