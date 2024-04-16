@@ -10,3 +10,7 @@ https://lapsen-arki.fi
 # Portrolio websites v1
 My old (PHP) portfolio websites (slow initial load):
 https://hasse-imberg-websites.onrender.com
+
+![personal_wenbsites_v1](sites.png)
+![personal_wenbsites_v1](sites1.png)
+![personal_wenbsites_v1](sites3.png)
