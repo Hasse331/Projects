@@ -5,7 +5,7 @@ This repository showcases other projects I've contributed to that are private an
 Working as team lead and full-stack developer.
 https://lapsen-arki.fi
 
-Application is using stack of: Vite, MUI, TypeScript, Node.js, Firebase, Cypress, Jest, Azure, Docker.
+Web application is using stack of: Vite, MUI, TypeScript, Node.js, Firebase, Cypress, Jest, Azure, Docker.
 
 My teammates working on this project were:
 - [@esaleino](https://github.com/esaleino)
@@ -22,7 +22,7 @@ My teammates working on this project were:
 My old (PHP) portfolio websites (slow initial load):
 https://hasse-imberg-websites.onrender.com
 
-Application is using stack of: PHP, JavaScript, Python, AWS SES, Render
+Web application is using stack of: PHP, JavaScript, Python, AWS SES, Render
 
 ![personal_wenbsites_v1](sites.png)
 ![personal_wenbsites_v1](sites1.png)
