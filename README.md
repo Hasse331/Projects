@@ -22,7 +22,7 @@ My teammates working on this project were:
 My old (PHP) portfolio websites (slow initial load):
 https://hasse-imberg-websites.onrender.com
 
-Web application is using stack of: PHP, JavaScript, Python, AWS SES, Render
+Web application is using stack of: PHP, JavaScript, Python, AWS SES and hosed on Render.
 
 ![personal_wenbsites_v1](sites.png)
 ![personal_wenbsites_v1](sites1.png)
