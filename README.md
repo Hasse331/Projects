@@ -4,7 +4,7 @@ This repository showcases other projects I've contributed to that are private an
 # FocusBlock™ - Time management application
 I did not find a good and simple time-blocking app in the Google Play Store, so I decided to make my own, which is minimalistic and simple enough. I personally don't like that mobile applications become distractions instead of tools to improve productivity, and this is the problem I try to fix with this project.
 
-Web application is using stack of: Vite, MUI, TypeScript, Node.js, Firebase, Cypress, Jest, Azure, Docker.
+My initial goal is to develop core features and establish a solid codebase. Once this foundation is in place, I plan to expand FocusBlock™ into a comprehensive, cross-platform app with real-time data sync powered by Firebase or Supabase. The full version with cloud synchronization and cross-platform compatibility will be monetized through a monthly subscription.
   
 ![LAAR - merged images](focusblock.png)
 ![LAAR - merged images](image.png)
