@@ -8,7 +8,7 @@ The goal is to make first base features and maintainable code structure, then op
   
 ![FocusBlock - merged images](focusblock.png)
 ![FocusBlock - merged images](image.png)
-![FocusBlock - results](results.md)
+[Results](results.md)
 
 
 # LAAR - Lapsen Arki
