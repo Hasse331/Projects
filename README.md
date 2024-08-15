@@ -6,8 +6,9 @@ I did not find a good and simple time-blocking app in the Google Play Store or e
 
 The goal is to make first base features and maintainable code structure, then optimize the application as a comprehensive cross-platform application with firebase/supabase backend with real-time data synchronizing. The full version of the application with cloud synchronizing and cross-platform features will be monetized based on a monthly SaaS subscription.
   
-![LAAR - merged images](focusblock.png)
-![LAAR - merged images](image.png)
+![FocusBlock - merged images](focusblock.png)
+![FocusBlock - merged images](image.png)
+![FocusBlock - results](results.md)
 
 
 # LAAR - Lapsen Arki
