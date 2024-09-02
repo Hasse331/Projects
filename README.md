@@ -15,8 +15,8 @@ Test the live version of the application by:
  [Visiting the web version (UI not fully optimized)](https://focusblock-ten.vercel.app)
  
  or
- By installing the android APK from here:
  
+ By installing the android APK from here:
  [Google drive link](https://drive.google.com/file/d/1WfeBbSTWtmMny2mFNNkr_BwZzN3tUFQm/view?usp=drive_link)
 
 [View my current wakatime worktime for this project](https://wakatime.com/@018ea958-8683-4c8d-8e87-711366038480/projects/irlhtphant?start=2024-08-27&end=2024-09-02)
