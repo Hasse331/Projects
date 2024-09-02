@@ -11,7 +11,6 @@ The goal is to make first base features and maintainable code structure, then op
 
 
 Test the live version of the application by:
-
  [Visiting the web version (UI not fully optimized)](https://focusblock-ten.vercel.app)
  
  or
