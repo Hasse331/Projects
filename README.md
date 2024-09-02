@@ -5,6 +5,19 @@ This repository showcases other projects I've contributed to that are private an
 I did not find a good and simple time-blocking app in the Google Play Store or elsewhere, so I decided to make my own, which is minimalistic and simple enough. I personally don't like that mobile applications become distractions instead of tools to improve productivity, and this is the problem I try to fix with this project.
 
 The goal is to make first base features and maintainable code structure, then optimize the application as a comprehensive cross-platform application with firebase/supabase backend with real-time data synchronizing. The full version of the application with cloud synchronizing and cross-platform features will be monetized based on a monthly SaaS subscription.
+
+# Feature list
+
+ - Adding blocks with name, block start and end time
+ - Adding notes, todo lists, links and (soon) notification for each block
+ - Saving and loading blocks as To Do blocks
+ - Saving and loading templates
+
+# Technical specification / tech stack
+
+ - Dart
+ - Flutter
+ - Shared preferences library for saving the data locally in JSON
   
 ![FocusBlock - merged images](focusblock.png)
 ![FocusBlock - merged images](image.png)
